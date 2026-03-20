@@ -37,7 +37,7 @@ fetch("https://fake-json-api.mock.beeceptor.com/users")
         <td>11</td>
         <td>Krisha Nicole Comeros</td>
         <td>krishacomeros@gmail.com</td>
-        <td>Student</td>
+        <td>Christ the King College de Maranding, Inc.</td>
         <td>Purok 1, Pancilan, Sapad, Lanao del Norte</td>
         <td>Philippines</td>
         <td>9213</td>
